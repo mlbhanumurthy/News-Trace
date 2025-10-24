@@ -15,6 +15,8 @@
 **News Trace Mapper** helps users explore the relationships between **news sources**, **journalists**, and **topics** in a visual and insightful way.  
 It leverages structured data and AI-driven analysis to map the spread and interconnection of news stories, providing deep insights into media activity patterns.
 
+---
+
 ### ✨ Key Features
 - 🧠 **AI-based categorization** of news sources and topics  
 - 🕸️ **Interactive network graphs** connecting outlets and journalists  
